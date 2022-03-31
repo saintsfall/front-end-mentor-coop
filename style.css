@@ -1,3 +1,17 @@
+:root {
+  --clr-violet: hsl(263, 55%, 52%);
+  --clr-blue: hsl(217, 19%, 35%);
+  --clr-dark-blue: hsl(219, 29%, 14%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-gray: hsl(0, 0%, 81%);
+  --clr-gray-light: hsl(210, 46%, 95%);
+
+  --fs-body: 13px;
+
+  --bp-mobile: 375px;
+  --bp-desktop: 1440px;
+}
+
 *,
 *::after,
 *::before {
